@@ -1,4 +1,4 @@
-# BG
+# Background and Setting
 ## Why GPP?
 The graph partitioning problem can take various complex forms or architectures. 
 The problem can be as simple as a binary partition, but it can also be so complex that it is mapped onto a wide variety of combinatorial optimization NP-hard problems.
@@ -11,15 +11,15 @@ The problem can be as simple as a binary partition, but it can also be so comple
 **Therefore, we can incorporate the coupling interaction matrix in the GPP problem into the spatial optical Ising machine for optimization and iteration, thereby achieving the cross-fusion of graph theory and optical computing.**
 
 # Diagrammatize
-## 典型的二分类优化图分割问题
+## A typical binary classification optimization graph segmentation problem
 ![image](https://github.com/Cherish0925/Graph-Partitioning-Problem-toy-model/blob/main/images/GPP1.png?raw=true)
-## 变量耦合矩阵在重新排序后有利于加速迭代优化
+## The variable coupling matrix becomes more conducive to accelerating iterative optimization after reordering.
 ![image](https://github.com/Cherish0925/Graph-Partitioning-Problem-toy-model/blob/main/images/GPP0.png?raw=true)
-## 简单的图分割问题带有耦合矩阵可视化
+## The simple graph partitioning problem with coupled matrix visualization
 ![image](https://github.com/Cherish0925/Graph-Partitioning-Problem-toy-model/blob/main/images/GPP2.png?raw=true)
-## 将图划分为3个区域
+## Divide the picture into three areas
 ![image](https://github.com/Cherish0925/Graph-Partitioning-Problem-toy-model/blob/main/images/GPP3.png?raw=true)
-## 稀疏复杂图的二分类
+## Binary classification of sparse and complex graphs
 ![image](https://github.com/Cherish0925/Graph-Partitioning-Problem-toy-model/blob/main/images/GPP4.png?raw=true)
 
 # Reiterate
